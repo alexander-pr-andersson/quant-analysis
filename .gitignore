@@ -1,0 +1,8 @@
+# Python and jupyter stuff
+/.ipynb_checkpoints
+./pychache
+
+#venv
+.venv
+.venv/
+
